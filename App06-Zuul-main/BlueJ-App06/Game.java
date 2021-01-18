@@ -281,6 +281,8 @@ public class Game
         }
 
         String KeyItem = command.getSecondWord();
+        
+        String RemoveItem = KeyItem;
 
         KeyItems NextItem = currentRoom.GetItems(KeyItem);
         
@@ -304,7 +306,7 @@ public class Game
                     
             CurrentStamina += P.ReduceStamina();
             
-            Inventory.remove(new KeyItems("Props"));
+            RemoveInventory(RemoveItem);
         }
         else if(KeyItem.equals("£7.60"))
         {
@@ -312,7 +314,7 @@ public class Game
                     
             CurrentStamina += P.ReduceStamina();
             
-            Inventory.remove(new KeyItems("£7.60"));
+            RemoveInventory(RemoveItem);
         }
         else if(KeyItem.equals("Project"))
         {
@@ -320,7 +322,7 @@ public class Game
                     
              CurrentStamina += P.ReduceStamina();
              
-             Inventory.remove(new KeyItems("Project"));
+             RemoveInventory(RemoveItem);
         }
         else if(KeyItem.equals("Racquets"))
         {
@@ -328,7 +330,7 @@ public class Game
                     
             CurrentStamina += P.ReduceStamina();
             
-            Inventory.remove(new KeyItems("Racquets"));
+            RemoveInventory(RemoveItem);
         }
         else if(KeyItem.equals("Keys"))
         {
@@ -336,7 +338,7 @@ public class Game
                     
               CurrentStamina += P.ReduceStamina();
               
-              Inventory.remove(new KeyItems("Keys"));
+              RemoveInventory(RemoveItem);
         }
         else if(KeyItem.equals("Book"))
         {
@@ -344,7 +346,7 @@ public class Game
                    
              CurrentStamina += P.ReduceStamina();
              
-             Inventory.remove(new KeyItems("Book"));
+             RemoveInventory(RemoveItem);
         }
         else if(KeyItem.equals("Trainers"))
         {
@@ -352,7 +354,7 @@ public class Game
                     
              CurrentStamina += P.ReduceStamina();
              
-             Inventory.remove(new KeyItems("Trainers"));
+             RemoveInventory(RemoveItem);
         }
         
         CurrentPoints += P.AddPoints();
@@ -380,6 +382,17 @@ public class Game
                     
             System.out.println("As a result, you have lost the game. \n");
         }  
+    }
+    
+    public void RemoveInventory(String I)
+    {
+        for(int i = 0; i < Inventory.size(); i++)
+        {
+            if(Inventory.get(i).GetKeyItems().equals(I))
+            {
+                Inventory.remove(I);
+            }
+        }
     }
 
     /** 
