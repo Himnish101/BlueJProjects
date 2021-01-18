@@ -1,0 +1,13 @@
+Evaluation
+
+Improvements
+
+1) add further limitations - add a specified no of items you can add
+
+2) add a multiplayer
+
+3) add a randomizer so the layout of the rooms changes
+
+4) add weights to objects so certain objects can't be picked up without a certain item
+
+5) add certain locks to rooms so you won't be able to enter until a certain item is acquired 

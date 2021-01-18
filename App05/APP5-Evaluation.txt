@@ -1,0 +1,11 @@
+Evaluation
+
+1) add a variable mix of products
+
+2) give a distinct price of each product so it's easier for Amazon to calculate profits/losses or just to make it easier to decide which item is more efficient
+
+3) add a login page for security reasons
+
+4) add a firewall or encrypt the code so it's hard to break in
+
+5) add some private methods/variables for security reasons

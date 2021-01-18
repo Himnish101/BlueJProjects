@@ -1,0 +1,11 @@
+Issues
+
+1) Understanding the code and what each code is supposed
+
+2) I didn't understand object-oriented programming in BlueJ as much as other apps - I did an external course on BlueJ so I can understand better
+
+3) I had plenty of issues when programming what happens when the players use particular objects in the game
+
+4) I had left it super late so I had to quicker than wanted
+
+5) I had a problem at first using the commands in the game

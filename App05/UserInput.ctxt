@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UserInput
+comment1.params=P
+comment1.target=UserInput(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ GetProgStart()
+comment3.params=P
+comment3.target=void\ SetProgStart(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
