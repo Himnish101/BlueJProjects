@@ -1,0 +1,185 @@
+Students students1 = new Students(19, "Himnish", "High Wycombe", 12);
+students1.StudentResults();
+Thank you for your patience.
+
+In order to continue your course in University, you need to input your modules and their results.
+
+Let's start with inputting your Modules.
+
+Module 1: 
+English
+
+Module 2: 
+3D-Modelling
+
+Module 3: 
+Programming
+
+Module 4: 
+r
+
+
+Good. Now input their results
+
+Average grade of your first A-Level topic: 
+67
+
+Average grade of your second A-Level topic: 
+34
+
+Average grade of your third A-Level topic: 
+98
+
+Average grade for your fourth A-Level topic: 
+56
+
+Let's see....
+
+English
+
+3D-Modelling
+
+Programming
+
+r
+
+You have been awarded a B for your first A-Level subject.
+
+You have been awarded a F for your second module.
+
+You have been awarded an A* for your third A-Level subject.
+
+You have been awarded an A* for your fourth+ A-Level subject.
+
+Your total grade for all modules is 255.
+
+Your pecentage for all modules is 0%.
+
+Unfortunately you won't be able to continue further your course.
+
+Students students1 = new Students(19, "Himnish", "High Wycombe", 12);
+students1.StudentResults();
+Thank you for your patience.
+
+In order to continue your course in University, you need to input your modules and their results.
+
+Let's start with inputting your Modules.
+
+Module 1: 
+3D-Programming
+
+Module 2: 
+Programming
+
+Module 3: 
+Digital-Tech
+
+Module 4: 
+Python
+
+
+Good. Now input their results
+
+Average grade of your first A-Level topic: 
+65
+
+Average grade of your second A-Level topic: 
+78
+
+Average grade of your third A-Level topic: 
+98
+
+Average grade for your fourth A-Level topic: 
+80
+
+Let's see....
+
+3D-Programming
+
+Programming
+
+Digital-Tech
+
+Python
+
+You have been awarded a B for your first A-Level subject.
+
+You have been awarded an A for your second A-Level subject.
+
+You have been awarded an A* for your third A-Level subject.
+
+You have been awarded an A* for your fourth+ A-Level subject.
+
+Your total grade for all modules is 321.
+
+Your pecentage for all modules is 0.0%.
+
+Unfortunately you won't be able to continue further your course.
+
+Students students1 = new Students(19, "Himnish", "High Wycombe", 12);
+students1.StudentResults();
+Thank you for your patience.
+
+In order to continue your course in University, you need to input your modules and their results.
+
+Let's start with inputting your Modules.
+
+Module 1: 
+H
+
+Module 2: 
+M
+
+Module 3: 
+O
+
+Module 4: 
+P
+
+
+Good. Now input their results
+
+Average grade of your first A-Level topic: 
+65
+
+Average grade of your second A-Level topic: 
+57
+
+Average grade of your third A-Level topic: 
+90
+
+Average grade for your fourth A-Level topic: 
+78
+
+Let's see....
+
+H
+
+M
+
+O
+
+P
+
+You have been awarded a B for your first A-Level subject.
+
+You have been awarded a C for your second A-Level subject.
+
+You have been awarded an A* for your third A-Level subject.
+
+You have been awarded an A* for your fourth+ A-Level subject.
+
+Your total grade for all modules is 290.
+
+Congratulations!
+
+You will be able to continue your course.
+
+students1.StudentResults();
+Thank you for your patience.
+
+In order to continue your course in University, you need to input your modules and their results.
+
+Let's start with inputting your Modules.
+
+Module 1: 

@@ -18,7 +18,7 @@ public class Player
     
     public int ReduceStamina()
     {
-        return stamina -= 30;
+        return stamina -= 50;
     }
     
     public int AddStamina()

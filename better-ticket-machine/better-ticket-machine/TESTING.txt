@@ -1,0 +1,199 @@
+Where do you want to travel?
+
+Amersham
+Standard price for a train ticket to this destination is 3.0.
+
+
+When do you want to travel?
+3rd December
+
+How many tickets do you want to buy?
+    Exception occurred.
+Ticket2.TicketMachine({});
+Welcome to bluej lines ticket machine.
+
+Before we start, please insert some money: 
+1800
+
+Where do you want to travel?
+
+Chandigarh
+Standard price for a train ticket to this destination is 
+123
+
+
+When do you want to travel?
+3rd December
+
+    Exception occurred.
+How many tickets do you want to buy?
+Ticket2.TicketMachine({});
+Welcome to bluej lines ticket machine.
+
+Before we start, please insert some money: 
+1800
+
+Where do you want to travel?
+
+High Wycombe
+Standard price for a train ticket to this destination is 
+    Exception occurred.
+Ticket2.TicketMachine({});
+Welcome to bluej lines ticket machine.
+
+Before we start, please insert some money: 
+1800
+
+Where do you want to travel?
+
+Standard price for a train ticket to this destination is 
+High Wycombe
+    Exception occurred.
+Ticket2.TicketMachine({});
+Welcome to bluej lines ticket machine.
+
+Before we start, please insert some money: 
+1800
+
+Where do you want to travel?
+
+Standard price for a train ticket to this destination is 
+1800
+
+
+When do you want to travel?
+High_Wycombe
+
+How many tickets do you want to buy?
+12
+Payment accepted.
+
+##################
+# The BlueJ Line
+Ticket # Location: 	 # Booked date:  High_Wycombe
+# Tickets: 12.0
+# Price: 21600.0 cents.
+##################
+
+Balance left: 0.0 cents
+
+Do you want to empty your balance? (yes/no)
+no
+Your current balance has not been changed.
+
+Ticket2.TicketMachine({});
+Welcome to bluej lines ticket machine.
+
+Before we start, please insert some money: 
+1800
+
+Where do you want to travel?
+
+Standard price for a train ticket to this destination is 
+dsfs
+    Exception occurred.
+Ticket2.TicketMachine({});
+Welcome to bluej lines ticket machine.
+
+Before we start, please insert some money: 
+1800
+
+Where do you want to travel?
+
+High_Wycombe
+Standard price for a train ticket to this destination is 3.3.
+
+
+When do you want to travel?
+3rd-December
+
+How many tickets do you want to buy?
+123
+Payment accepted.
+
+##################
+# The BlueJ Line
+Ticket # Location: 
+High_Wycombe	 # Booked date:  3rd-December
+
+# Tickets: 123.0
+# Price: 405.9 cents.
+##################
+
+Balance left: 1796.7 cents
+
+Do you want to empty your balance? (yes/no)
+no
+Your current balance has not been changed.
+
+Ticket2.TicketMachine({});
+Welcome to bluej lines ticket machine.
+
+Before we start, please insert some money: 
+1800
+
+Where do you want to travel?
+
+High_Wycombe
+Standard price for a train ticket to this destination is 3.3.
+
+
+When do you want to travel?
+4th-May-2021
+
+How many tickets do you want to buy?
+123
+Payment accepted.
+
+##################
+# The BlueJ Line
+Ticket # Location: High_Wycombe	
+ # Booked date:  4th-May-2021
+
+# Tickets: 123.0
+# Price: 405.9 cents.
+##################
+
+Balance left: 1796.7 cents
+
+Do you want to empty your balance? (yes/no)
+yes
+You've emptied your balance.
+
+Balance: 0.0 cents
+
+Ticket2.TicketMachine({});
+Welcome to bluej lines ticket machine.
+
+Before we start, please insert some money: 
+1800
+
+Where do you want to travel?
+
+Ayelsbury
+Standard price for a train ticket to this destination is 2.0.
+
+
+When do you want to travel?
+3rd-December-2020
+
+How many tickets do you want to buy?
+123
+Payment accepted.
+
+##################
+# The BlueJ Line
+Ticket # Location: Ayelsbury	
+ # Booked date: 3rd-December-2020
+# Tickets: 123.0
+# Price: 246.0 cents.
+##################
+
+Balance left: 1798.0 cents
+
+Do you want to empty your balance? (yes/no)
+yes
+You've emptied your balance.
+
+Balance: 0.0 cents
+

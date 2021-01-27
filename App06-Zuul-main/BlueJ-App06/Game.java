@@ -62,9 +62,10 @@ public class Game
 
         theater.setExit("west", outside);
         theater.setExit("downstairs", PropStudio);
-        theater.AddRoomItems(new KeyItems("Props"));
         
         PropStudio.setExit("upstairs", theater);
+        
+        PropStudio.AddRoomItems(new KeyItems("Props"));
 
         pub.setExit("east", outside);
 
@@ -310,9 +311,9 @@ public class Game
         }
         else if(KeyItem.equals("£7.60"))
         {
-            A.Theater();
+            A.GettingFood();
                     
-            CurrentStamina += P.ReduceStamina();
+            CurrentStamina += P.AddStamina();
             
             RemoveInventory(RemoveItem);
         }
@@ -363,7 +364,7 @@ public class Game
                 
         System.out.println("Stamina: " + CurrentStamina + "\n");
                 
-        if(CurrentPoints == 140)
+        if(CurrentPoints == 120)
         {
             System.out.println("Congratulations! \n");
                     

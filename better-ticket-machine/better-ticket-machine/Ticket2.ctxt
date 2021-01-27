@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ticket2
+comment0.text=\r\n\ Write\ a\ description\ of\ JavaFX\ class\ Ticket2\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ n
+comment1.target=double\ TotalPrice(double,\ double)
+comment1.text=\r\n\ @Return\ The\ price\ of\ a\ ticket.\r\n
+comment2.params=a
+comment2.target=double\ EmptyCredits(double)
+comment3.params=args
+comment3.target=void\ TicketMachine(java.lang.String[])
+numComments=4

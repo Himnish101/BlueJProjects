@@ -1,0 +1,199 @@
+
+Average grade of your third module: 
+90
+
+Average grade for your fourth module: 
+78
+
+Let's see....
+
+Modules Module: 3D-Modelling
+
+Modules Module: Programming-Principles
+
+Modules Module: Computer-Architectures
+
+Modules Module: Games-Design
+
+You have been awarded a B for your first module.
+
+You have been awarded a D for your second module.
+
+You have been awarded an A* for your third module.
+
+You have been awarded an A* for your fourth module.
+
+Your total grade for all modules is 273.
+
+Congratulations!
+
+You will be able to continue your course.
+
+Students students1 = new Students("Himnish", 19, "High-Wycombe", 123);
+students1.StudentResults();
+Thank you for your patience.
+
+In order to continue your course in University, you need to input your modules and their results.
+
+Let's start with inputting your Modules.
+
+Module 1: 
+3D-Modelling
+    Exception occurred.
+Students students1 = new Students("Himnish", 19, "High-Wycombe", 999);
+students1.StudentResults();
+Thank you for your patience.
+
+In order to continue your course in University, you need to input your modules and their results.
+
+Let's start with inputting your Modules.
+
+Module 1: 
+3D-Modelling
+
+Code for Module 1: 
+CO450-20S1
+
+Module 2: 
+Programming-Principles
+
+Code for Module 2: 
+CO452-20S1
+
+Module 3: 
+Computer-Architectures
+
+Code for Module 3: 
+CO461-20S1
+
+Module 4: 
+Games-Design
+
+Code for Module 4: 
+CO459-20S1
+
+
+Good. Now input their results
+
+Average grade of your first module: 
+56
+
+Average grade of your second module: 
+30
+
+Average grade of your third module: 
+90
+
+Average grade for your fourth module: 
+67
+
+Let's see....
+
+Modules Module: 3D-Modelling
+
+MD Details of Module: CO450-20S1
+
+Modules Module: Programming-Principles
+
+MD Details of Module: CO452-20S1
+
+Modules Module: Computer-Architectures
+
+MD Details of Module: CO461-20S1
+
+Modules Module: Games-Design
+
+MD Details of Module: CO459-20S1
+
+You have been awarded a C for your first module.
+
+You have been awarded a F for your second module.
+
+You have been awarded a C for your third module.
+
+You have been awarded a C for your fourth module.
+
+Your total grade for all modules is 243.
+
+Congratulations!
+
+You will be able to continue your course.
+
+Students students1 = new Students("Himnish", 19, "High-Wycombe", 999);
+students1.StudentResults();
+Thank you for your patience.
+
+In order to continue your course in University, you need to input your modules and their results.
+
+Let's start with inputting your Modules.
+
+Module 1: 
+3d-Modelling
+
+Code for Module 1: 
+CO461-20S1
+
+Module 2: 
+Programming-Concepts
+
+Code for Module 2: 
+CO452-20S1
+
+Module 3: 
+Computer-Architectures
+
+Code for Module 3: 
+CO450-20S1
+
+Module 4: 
+Games Design
+
+Code for Module 4: 
+
+
+Good. Now input their results
+
+Average grade of your first module: 
+65
+
+Average grade of your second module: 
+23
+
+Average grade of your third module: 
+89
+
+Average grade for your fourth module: 
+100
+
+Let's see....
+
+Modules Module: 3d-Modelling
+
+MD Details of Module: CO461-20S1
+
+Modules Module: Programming-Concepts
+
+MD Details of Module: CO452-20S1
+
+Modules Module: Computer-Architectures
+
+MD Details of Module: CO450-20S1
+
+Modules Module: Games
+
+MD Details of Module: Design
+
+You have been awarded a B for your first module.
+
+You have been awarded a F for your second module.
+
+You have been awarded an A* for your third module.
+
+You have been awarded an A* for your fourth module.
+
+Your total grade for all modules is 277.
+
+Congratulations!
+
+You will be able to continue your course.
+
